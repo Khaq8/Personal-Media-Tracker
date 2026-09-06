@@ -26,9 +26,9 @@ movie-collection/
 - Prerequisites
 - Get a free API key from http://www.omdbapi.com/
 - Internet connection (for OMDB API)
-```text
-git clone https://github.com/Khaq8/Personal-Media-Tracker.git
-```
+- ```text
+  git clone https://github.com/Khaq8/Personal-Media-Tracker.git
+  ```
 - Open script.js and replace the placeholder API key in the first line:
 - ```text
   const API_KEY = 'your_api_key_here';
