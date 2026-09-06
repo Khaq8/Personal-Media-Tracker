@@ -33,8 +33,6 @@ movie-collection/
 - ```text
   const API_KEY = 'your_api_key_here';
   ```
-- Open index.html in your web browser to start searching and adding movies/shows
-- Navigate to collection.html to view your collection
   
 ## 📖 Usage
 - Search Movies
