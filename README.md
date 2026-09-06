@@ -50,8 +50,8 @@ git clone https://github.com/Khaq8/Personal-Media-Tracker.git
   const API_KEY = 'your_api_key_here';
   ```
   
-##📄 License
+## 📄 License
 -This project is available as open source under the terms of the MIT License.
 
-##👤 Author
+## 👤 Author
 -Khaq8
