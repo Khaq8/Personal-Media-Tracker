@@ -1,4 +1,4 @@
-# 🎬 Movie Collection Manager
+# 🎬 Movie/TV Shows Collection Manager
 
 A web application for managing your personal movie collection with search functionality and local storage persistence.
 
