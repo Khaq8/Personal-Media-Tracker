@@ -45,10 +45,12 @@ git clone https://github.com/Khaq8/Personal-Media-Tracker.git
 ## ⚙️ Technical Details
 - API Integration
 - Get a free API key from http://www.omdbapi.com/
-- Replace the placeholder API key in script.js: ```const API_KEY = 'your_api_key_here';```
-
+- Replace the placeholder API key in script.js:
+- ```text
+  const API_KEY = 'your_api_key_here';
+  ```
 ##📄 License
-This project is available as open source under the terms of the MIT License.
+-This project is available as open source under the terms of the MIT License.
 
 ##👤 Author
-Khaq8
+-Khaq8
