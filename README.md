@@ -24,11 +24,15 @@ movie-collection/
 ```
 ## 🚀 Getting Started
 - Prerequisites
-- Modern web browser (Chrome, Firefox, Safari, Edge)
+- Get a free API key from http://www.omdbapi.com/
 - Internet connection (for OMDB API)
 ```text
 git clone https://github.com/Khaq8/Personal-Media-Tracker.git
 ```
+- Open script.js and replace the placeholder API key in the first line:
+- ```text
+  const API_KEY = 'your_api_key_here';
+  ```
 - Open index.html in your web browser to start searching movies
 - Navigate to collection.html to view your collection
   
@@ -41,14 +45,6 @@ git clone https://github.com/Khaq8/Personal-Media-Tracker.git
 - View all movies in your collection
 - Use the toggle switch to mark movies as watched/unwatched
 - Click "Delete" to remove movies from your collection
-
-## ⚙️ Technical Details
-- API Integration
-- Get a free API key from http://www.omdbapi.com/
-- Replace the placeholder API key in script.js:
-- ```text
-  const API_KEY = 'your_api_key_here';
-  ```
   
 ## 📄 License
 - This project is available as open source under the terms of the MIT License.
