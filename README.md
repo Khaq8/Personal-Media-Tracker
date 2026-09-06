@@ -51,7 +51,7 @@ git clone https://github.com/Khaq8/Personal-Media-Tracker.git
   ```
   
 ## 📄 License
--This project is available as open source under the terms of the MIT License.
+- This project is available as open source under the terms of the MIT License.
 
 ## 👤 Author
--Khaq8
+- Khaq8
