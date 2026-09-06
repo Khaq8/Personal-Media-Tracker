@@ -26,8 +26,9 @@ movie-collection/
 - Prerequisites
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 - Internet connection (for OMDB API)
-- Installation
-- Clone or download the repository
+```text
+git clone https://github.com/Khaq8/Personal-Media-Tracker.git
+```
 - Open index.html in your web browser to start searching movies
 - Navigate to collection.html to view your collection
   
