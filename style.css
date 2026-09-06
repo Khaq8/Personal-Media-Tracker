@@ -214,7 +214,7 @@ footer p {
     padding: 3rem 0;
     background-color: rgba(0, 0, 0, 0.05); 
     transition: background-color var(--transition-speed);
-    max-width: none; /* or a larger value */
+    max-width: none;
     width: 100%;
     
 }
@@ -318,7 +318,7 @@ footer p {
 }
 
 .movie-card {
-    width: 100%; /* let the grid track control the size */
+    width: 100%; 
 }
 .search-element {
     display: -webkit-box;
